@@ -1,0 +1,670 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "salandit_safari",
+            "pokemon": "salandit",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "raticate_alolan_safari",
+            "pokemon": "",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "arbok_safari",
+            "pokemon": "arbok",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "golbat_safari",
+            "pokemon": "golbat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "gloom_safari",
+            "pokemon": "gloom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "parasect_safari",
+            "pokemon": "parasect",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "golduck_safari",
+            "pokemon": "golduck",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "poliwhirl_safari",
+            "pokemon": "poliwhirl",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "slowpoke_galarian_safari",
+            "pokemon": "slowpoke galarian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "muk_alolan_safari",
+            "pokemon": "muk alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "gastly_safari",
+            "pokemon": "gastly",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 4.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "weezing_safari",
+            "pokemon": "weezing",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 4.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "yanma_safari",
+            "pokemon": "yanma",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "quagsire_safari",
+            "pokemon": "quagsire",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "qwilfish_hisuian_safari",
+            "pokemon": "qwilfish hisuian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "sneasel_hisuian_safari",
+            "pokemon": "sneasel hisuian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "lombre_safari",
+            "pokemon": "lombre",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "masquerain_safari",
+            "pokemon": "masquerain",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "seviper_safari",
+            "pokemon": "seviper",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "banette_safari",
+            "pokemon": "banette",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "bibarel_safari",
+            "pokemon": "bibarel",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "gastrodon_safari",
+            "pokemon": "gastrodon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "carnivine_safari",
+            "pokemon": "carnivine",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "palpitoad_safari",
+            "pokemon": "palpitoad",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "whirlipede_safari",
+            "pokemon": "whirlipede",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "swanna_safari",
+            "pokemon": "swanna",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "litwick_safari",
+            "pokemon": "litwick",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "shelmet_safari",
+            "pokemon": "shelmet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "stunfisk_safari",
+            "pokemon": "stunfisk",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "bouffalant_safari",
+            "pokemon": "bouffalant",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "phantump_safari",
+            "pokemon": "phantump",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "pumpkaboo_safari",
+            "pokemon": "pumpkaboo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 5.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "wimpod_safari",
+            "pokemon": "wimpod",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "komala_safari",
+            "pokemon": "komala",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "drednaw_safari",
+            "pokemon": "drednaw",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "impidimp_safari",
+            "pokemon": "impidimp",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "bellibolt_safari",
+            "pokemon": "bellibolt",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "mabosstiff_safari",
+            "pokemon": "mabosstiff",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        },
+        {
+            "id": "poltchageist_safari",
+            "pokemon": "poltchageist",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:dark_swamp"
+                ]
+            }
+        }
+    ]
+}

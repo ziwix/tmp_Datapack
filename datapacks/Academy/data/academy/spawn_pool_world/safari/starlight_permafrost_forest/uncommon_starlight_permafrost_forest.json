@@ -1,0 +1,585 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "beartic_safari",
+            "pokemon": "beartic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "sandshrew_alolan_safari",
+            "pokemon": "sandshrew alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "vulpix_alolan_safari",
+            "pokemon": "vulpix alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "meowth_hisuian_safari",
+            "pokemon": "meowth hisuian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "lickitung_safari",
+            "pokemon": "lickitung",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "rhyhorn_safari",
+            "pokemon": "rhyhorn",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "azurill_safari",
+            "pokemon": "azurill",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "granbull_safari",
+            "pokemon": "granbull",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "sneasel_safari",
+            "pokemon": "sneasel",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "ursaring_safari",
+            "pokemon": "ursaring",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "magcargo_safari",
+            "pokemon": "magcargo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "piloswine_safari",
+            "pokemon": "piloswine",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "delibird_safari",
+            "pokemon": "delibird",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "loudred_safari",
+            "pokemon": "loudred",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "snorunt_safari",
+            "pokemon": "snorunt",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "sealeo_safari",
+            "pokemon": "sealeo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "kricketune_safari",
+            "pokemon": "kricketune",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "luxio_safari",
+            "pokemon": "luxio",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "pachirisu_safari",
+            "pokemon": "pachirisu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "panpour_safari",
+            "pokemon": "panpour",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "duosion_safari",
+            "pokemon": "duosion",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "vanillish_safari",
+            "pokemon": "vanillish",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "ferroseed_safari",
+            "pokemon": "ferroseed",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "cryogonal_safari",
+            "pokemon": "cryogonal",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "rufflet_safari",
+            "pokemon": "rufflet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "diggersby_safari",
+            "pokemon": "diggersby",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "gogoat_safari",
+            "pokemon": "gogoat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "furfrou_safari",
+            "pokemon": "furfrou",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "crabrawler_safari",
+            "pokemon": "crabrawler",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "togedemaru_safari",
+            "pokemon": "togedemaru",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "carkol_safari",
+            "pokemon": "carkol",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "snom_safari",
+            "pokemon": "snom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "fidough_safari",
+            "pokemon": "fidough",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        },
+        {
+            "id": "cetoddle_safari",
+            "pokemon": "cetoddle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:starlight_permafrost_forest"
+                ]
+            }
+        }
+    ]
+}

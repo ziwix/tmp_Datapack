@@ -1,0 +1,1129 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "scyther_safari",
+            "pokemon": "scyther",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "27-44",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "minccino_safari",
+            "pokemon": "minccino",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "3-21",
+            "weight": 5.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "pikachu_cosplay_belle_safari",
+            "pokemon": "pikachu cosplay=belle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-33",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "pidgeot_safari",
+            "pokemon": "pidgeot",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "pichu_safari",
+            "pokemon": "pichu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "cleffa_safari",
+            "pokemon": "cleffa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "rapidash_galarian_safari",
+            "pokemon": "rapidash galarian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "munchlax_safari",
+            "pokemon": "munchlax",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "togepi_safari",
+            "pokemon": "togepi",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "wynaut_safari",
+            "pokemon": "wynaut",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "wobbuffet_safari",
+            "pokemon": "wobbuffet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "smeargle_safari",
+            "pokemon": "smeargle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "shiftry_safari",
+            "pokemon": "shiftry",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "kirlia_safari",
+            "pokemon": "kirlia",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "delcatty_safari",
+            "pokemon": "delcatty",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 10.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "spinda_safari",
+            "pokemon": "spinda",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "wormadam_safari",
+            "pokemon": "wormadam",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "purugly_safari",
+            "pokemon": "purugly",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "simisage_safari",
+            "pokemon": "simisage",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "audino_safari",
+            "pokemon": "audino",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "whimsicott_safari",
+            "pokemon": "whimsicott",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "lilligant_safari",
+            "pokemon": "lilligant",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "zorua_safari",
+            "pokemon": "zorua",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "bisharp_safari",
+            "pokemon": "bisharp",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "meowstic_safari",
+            "pokemon": "meowstic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "honedge_safari",
+            "pokemon": "honedge",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "doublade_safari",
+            "pokemon": "doublade",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "hawlucha_safari",
+            "pokemon": "hawlucha",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "klefki_safari",
+            "pokemon": "klefki",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "toucannon_safari",
+            "pokemon": "toucannon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "lurantis_safari",
+            "pokemon": "lurantis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "shiinotic_safari",
+            "pokemon": "shiinotic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "comfey_safari",
+            "pokemon": "comfey",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "oranguru_safari",
+            "pokemon": "oranguru",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "hattrem_safari",
+            "pokemon": "hattrem",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "indeedee_safari",
+            "pokemon": "indeedee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "raichu_safari",
+            "pokemon": "raichu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "nidoqueen_safari",
+            "pokemon": "nidoqueen",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "nidoking_safari",
+            "pokemon": "nidoking",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "clefable_safari",
+            "pokemon": "clefable",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "annihilape_safari",
+            "pokemon": "annihilape",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "exeggutor_alolan_safari",
+            "pokemon": "exeggutor alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "marowak_alolan_safari",
+            "pokemon": "marowak alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "leafeon_safari",
+            "pokemon": "leafeon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "sylveon_safari",
+            "pokemon": "sylveon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "snorlax_safari",
+            "pokemon": "snorlax",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "togetic_safari",
+            "pokemon": "togetic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "ampharos_safari",
+            "pokemon": "ampharos",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "honchkrow_safari",
+            "pokemon": "honchkrow",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "mismagius_safari",
+            "pokemon": "mismagius",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "obstagoon_safari",
+            "pokemon": "obstagoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "gardevoir_safari",
+            "pokemon": "gardevoir",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "roserade_safari",
+            "pokemon": "roserade",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "altaria_safari",
+            "pokemon": "altaria",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "rotom_safari",
+            "pokemon": "rotom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "zoroark_safari",
+            "pokemon": "zoroark",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "gothitelle_safari",
+            "pokemon": "gothitelle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "florges_safari",
+            "pokemon": "florges",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "aegislash_safari",
+            "pokemon": "aegislash",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "aromatisse_safari",
+            "pokemon": "aromatisse",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "noibat_safari",
+            "pokemon": "noibat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "corviknight_safari",
+            "pokemon": "corviknight",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "flapple_safari",
+            "pokemon": "flapple",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "hatterene_safari",
+            "pokemon": "hatterene",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "alcremie_safari",
+            "pokemon": "alcremie",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "maushold_safari",
+            "pokemon": "maushold",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        }
+    ]
+}

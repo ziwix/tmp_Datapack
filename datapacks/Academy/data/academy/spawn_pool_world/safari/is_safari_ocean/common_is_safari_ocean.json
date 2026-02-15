@@ -1,0 +1,228 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tentacool_safari",
+            "pokemon": "tentacool",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "seel_safari",
+            "pokemon": "seel",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "shellder_safari",
+            "pokemon": "shellder",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 4.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "goldeen_safari",
+            "pokemon": "goldeen",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "staryu_safari",
+            "pokemon": "staryu",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "magikarp_safari",
+            "pokemon": "magikarp",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 4.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "chinchou_safari",
+            "pokemon": "chinchou",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "remoraid_safari",
+            "pokemon": "remoraid",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "luvdisc_safari",
+            "pokemon": "luvdisc",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "buizel_safari",
+            "pokemon": "buizel",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "finneon_safari",
+            "pokemon": "finneon",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "tynamo_safari",
+            "pokemon": "tynamo",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "arrokuda_safari",
+            "pokemon": "arrokuda",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "4-19",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        }
+    ]
+}

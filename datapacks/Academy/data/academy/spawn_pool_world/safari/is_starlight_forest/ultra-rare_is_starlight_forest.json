@@ -1,0 +1,109 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "togekiss_safari",
+            "pokemon": "togekiss",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 7.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "bagon_safari",
+            "pokemon": "bagon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 4.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "axew_safari",
+            "pokemon": "axew",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "kingambit_safari",
+            "pokemon": "kingambit",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 5.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "noivern_safari",
+            "pokemon": "noivern",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 6.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        },
+        {
+            "id": "ceruledge_safari",
+            "pokemon": "ceruledge",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "31-48",
+            "weight": 7.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_starlight_forest"
+                ]
+            }
+        }
+    ]
+}

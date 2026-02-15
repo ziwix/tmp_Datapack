@@ -1,0 +1,900 @@
+{
+  "pools": [
+    {
+      "id": "biomeblends:badlands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:badlands"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:bamboo_jungle",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:bamboo_jungle"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:basalt_deltas",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:basalt_deltas"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:beach",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:beach"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:birch_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:birch_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:cherry_grove",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:cherry_grove"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:cold_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:cold_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:crimson_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:crimson_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:dark_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:dark_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:deep_cold_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:deep_cold_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:deep_dark",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:deep_dark"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:deep_frozen_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:deep_frozen_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:deep_lukewarm_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:deep_lukewarm_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:deep_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:deep_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:desert",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:desert"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:dripstone_caves",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:dripstone_caves"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:end_barrens",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:end_barrens"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:end_highlands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:end_highlands"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:end_midlands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:end_midlands"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:eroded_badlands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:eroded_badlands"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:flower_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:flower_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:frozen_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:frozen_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:frozen_peaks",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:frozen_peaks"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:frozen_river",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:frozen_river"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:grove",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:grove"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:ice_spikes",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:ice_spikes"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:jagged_peaks",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:jagged_peaks"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:jungle",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:jungle"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:lukewarm_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:lukewarm_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:lush_caves",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:lush_caves"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:mangrove_swamp",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:mangrove_swamp"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:meadow",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:meadow"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:mushroom_fields",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:mushroom_fields"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:nether_wastes",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:nether_wastes"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:old_growth_birch_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:old_growth_birch_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:old_growth_pine_taiga",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:old_growth_pine_taiga"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:old_growth_spruce_taiga",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:old_growth_spruce_taiga"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:plains",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:plains"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:river",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:river"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:savanna_plateau",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:savanna_plateau"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:savanna",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:savanna"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:small_end_islands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:small_end_islands"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:snowy_beach",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:snowy_beach"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:snowy_plains",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:snowy_plains"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:snowy_slopes",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:snowy_slopes"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:snowy_taiga",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:snowy_taiga"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:soul_sand_valley",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:soul_sand_valley"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:sparse_jungle",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:sparse_jungle"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:stony_peaks",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:stony_peaks"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:stony_shore",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:stony_shore"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:sunflower_plains",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:sunflower_plains"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:swamp",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:swamp"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:taiga",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:taiga"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:the_end",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:the_end"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:the_void",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:the_void"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:warm_ocean",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:warm_ocean"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:warped_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:warped_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:windswept_forest",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:windswept_forest"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:windswept_gravelly_hills",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:windswept_gravelly_hills"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:windswept_hills",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:windswept_hills"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:windswept_savanna",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:windswept_savanna"
+          }
+        }
+      }
+    },
+    {
+      "id": "biomeblends:wooded_badlands",
+      "rarity": "uncommon",
+      "entry": {
+        "type": "lootables:item",
+        "item": {
+          "id": "biomeblends:biome_blend",
+          "count": 1,
+          "components": {
+            "biomeblends:blend_type": "minecraft:wooded_badlands"
+          }
+        }
+      }
+    }
+  ]
+}

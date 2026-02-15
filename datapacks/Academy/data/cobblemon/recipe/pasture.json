@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PGP",
+        "PCP",
+        "WHW"
+    ],
+    "key": {
+        "P": {
+            "tag": "minecraft:planks"
+        },
+        "C": {
+            "item": "cobblemon:pc"
+        },
+        "W": {
+            "tag": "c:crops/wheat"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "G": {
+            "item": "numismatic-overhaul:gold_coin"
+        }
+    },
+    "result": {
+        "id": "cobblemon:pasture"
+    }
+}

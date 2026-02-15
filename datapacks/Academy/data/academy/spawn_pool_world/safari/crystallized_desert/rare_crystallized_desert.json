@@ -1,0 +1,1163 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "onix crystal_safari",
+            "pokemon": "onix crystal",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "31-48",
+            "weight": 10.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "torchic_safari",
+            "pokemon": "torchic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "1-15",
+            "weight": 3.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "combusken_safari",
+            "pokemon": "combusken",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "16-35",
+            "weight": 1.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "blaziken_safari",
+            "pokemon": "blaziken",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "36-51",
+            "weight": 0.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "scorbunny_safari",
+            "pokemon": "scorbunny",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "1-15",
+            "weight": 3.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "raboot_safari",
+            "pokemon": "raboot",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "16-35",
+            "weight": 1.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "cinderace_safari",
+            "pokemon": "cinderace",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "36-51",
+            "weight": 0.31,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "espeon_safari",
+            "pokemon": "espeon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "28-53",
+            "weight": 5.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "aerodactyl_safari",
+            "pokemon": "aerodactyl",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "28-53",
+            "weight": 1.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "duraludon_safari",
+            "pokemon": "duraludon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "38-48",
+            "weight": 9.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "kingambit_safari",
+            "pokemon": "kingambit",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "38-48",
+            "weight": 5.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "cranidos_safari",
+            "pokemon": "cranidos",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "10-35",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "larvitar_safari",
+            "pokemon": "larvitar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "21-33",
+            "weight": 4.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "tyranitar_safari",
+            "pokemon": "tyranitar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "34-53",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "pikachu_cosplay_pop_star_safari",
+            "pokemon": "pikachu cosplay=pop_star",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "golem_safari",
+            "pokemon": "golem",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "magneton_safari",
+            "pokemon": "magneton",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "porygon_safari",
+            "pokemon": "porygon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "skarmory_safari",
+            "pokemon": "skarmory",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "probopass_safari",
+            "pokemon": "probopass",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "sableye_safari_2",
+            "pokemon": "sableye",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "mawile_safari",
+            "pokemon": "mawile",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "manectric_safari",
+            "pokemon": "manectric",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "camerupt_safari",
+            "pokemon": "camerupt",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "torkoal_safari",
+            "pokemon": "torkoal",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "bronzong_safari",
+            "pokemon": "bronzong",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "hippowdon_safari",
+            "pokemon": "hippowdon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "gigalith_safari",
+            "pokemon": "gigalith",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "excadrill_safari",
+            "pokemon": "excadrill",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "krookodile_safari",
+            "pokemon": "krookodile",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "darmanitan_safari",
+            "pokemon": "darmanitan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "crustle_safari",
+            "pokemon": "crustle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "sigilyph_safari",
+            "pokemon": "sigilyph",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "cofagrigus_safari",
+            "pokemon": "cofagrigus",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "klang_safari",
+            "pokemon": "klang",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "stunfisk_galarian_safari",
+            "pokemon": "stunfisk galarian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "mandibuzz_safari",
+            "pokemon": "mandibuzz",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "heliolisk_safari",
+            "pokemon": "heliolisk",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "lycanroc_safari",
+            "pokemon": "lycanroc",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "palossand_safari",
+            "pokemon": "palossand",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "turtonator_safari",
+            "pokemon": "turtonator",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "sandaconda_safari",
+            "pokemon": "sandaconda",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "centiskorch_safari",
+            "pokemon": "centiskorch",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "stonjourner_safari",
+            "pokemon": "stonjourner",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 10.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "brambleghast_safari",
+            "pokemon": "brambleghast",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 10.2,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "espathra_safari",
+            "pokemon": "espathra",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "bombirdier_safari",
+            "pokemon": "bombirdier",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "revavroom_safari",
+            "pokemon": "revavroom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.5,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "cyclizar_safari",
+            "pokemon": "cyclizar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "orthworm_safari",
+            "pokemon": "orthworm",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 7.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "golem_alolan_safari",
+            "pokemon": "golem alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "magnezone_safari",
+            "pokemon": "magnezone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "steelix_safari",
+            "pokemon": "steelix",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "jolteon_safari",
+            "pokemon": "jolteon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "porygon2_safari",
+            "pokemon": "porygon2",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "gliscor_safari",
+            "pokemon": "gliscor",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "trapinch_safari",
+            "pokemon": "trapinch",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "vibrava_safari",
+            "pokemon": "vibrava",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "drapion_safari",
+            "pokemon": "drapion",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "runerigus_safari",
+            "pokemon": "runerigus",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "klinklang_safari",
+            "pokemon": "klinklang",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "golurk_safari",
+            "pokemon": "golurk",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "larvesta_safari",
+            "pokemon": "larvesta",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "vikavolt_safari",
+            "pokemon": "vikavolt",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "garganacl_safari",
+            "pokemon": "garganacl",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "rabsca_safari",
+            "pokemon": "rabsca",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.7,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "tinkatink_safari",
+            "pokemon": "tinkatink",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "4-18",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        },
+        {
+            "id": "glimmora_safari",
+            "pokemon": "glimmora",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 0.8,
+            "condition": {
+                "biomes": [
+                    "eternal_starlight:crystallized_desert"
+                ]
+            }
+        }
+    ]
+}

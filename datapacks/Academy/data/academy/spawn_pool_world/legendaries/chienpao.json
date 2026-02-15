@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "chienpao-1",
+      "pokemon": "chienpao",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freezing"
+        ],
+        "key_item": "academy:sword_of_ruin"
+      }
+    }
+  ]
+}

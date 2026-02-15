@@ -1,0 +1,347 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "cloyster_safari",
+            "pokemon": "cloyster",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "seadra_safari",
+            "pokemon": "seadra",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "starmie_safari",
+            "pokemon": "starmie",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "mantyke_safari",
+            "pokemon": "mantyke",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "sharpedo_safari",
+            "pokemon": "sharpedo",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "feebas_safari",
+            "pokemon": "feebas",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 9.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "barbaracle_safari",
+            "pokemon": "barbaracle",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 6.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "bruxish_safari",
+            "pokemon": "bruxish",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 8.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "toxapex_safari",
+            "pokemon": "toxapex",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "tatsugiri_safari",
+            "pokemon": "tatsugiri",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 5.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "gyarados_safari",
+            "pokemon": "gyarados",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "wailord_safari",
+            "pokemon": "wailord",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "huntail_safari",
+            "pokemon": "huntail",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "gorebyss_safari",
+            "pokemon": "gorebyss",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "relicanth_safari",
+            "pokemon": "relicanth",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "eelektross_safari",
+            "pokemon": "eelektross",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "clawitzer_safari",
+            "pokemon": "clawitzer",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "palafin_safari",
+            "pokemon": "palafin",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "dragalge_safari",
+            "pokemon": "dragalge",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "lapras_safari",
+            "pokemon": "lapras",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "18-41",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,466 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tentacruel_safari",
+            "pokemon": "tentacruel",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 4.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "dewgong_safari",
+            "pokemon": "dewgong",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "horsea_safari",
+            "pokemon": "horsea",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "seaking_safari",
+            "pokemon": "seaking",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 4.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "lanturn_safari",
+            "pokemon": "lanturn",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "corsola_safari",
+            "pokemon": "corsola",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "octillery_safari",
+            "pokemon": "octillery",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "mantine_safari",
+            "pokemon": "mantine",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "pelipper_safari",
+            "pokemon": "pelipper",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "wailmer_safari",
+            "pokemon": "wailmer",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "clamperl_safari",
+            "pokemon": "clamperl",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "floatzel_safari",
+            "pokemon": "floatzel",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "lumineon_safari",
+            "pokemon": "lumineon",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "alomomola_safari",
+            "pokemon": "alomomola",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.7,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "eelektrik_safari",
+            "pokemon": "eelektrik",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 3.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "binacle_safari",
+            "pokemon": "binacle",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "clauncher_safari",
+            "pokemon": "clauncher",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "wishiwashi_safari",
+            "pokemon": "wishiwashi",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "pyukumuku_safari",
+            "pokemon": "pyukumuku",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "cramorant_safari",
+            "pokemon": "cramorant",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "barraskewda_safari",
+            "pokemon": "barraskewda",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "finizen_safari",
+            "pokemon": "finizen",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "veluza_safari",
+            "pokemon": "veluza",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 2.2,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "dondozo_safari",
+            "pokemon": "dondozo",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.4,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "skrelp_safari",
+            "pokemon": "skrelp",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "mareanie_safari",
+            "pokemon": "mareanie",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        },
+        {
+            "id": "pincurchin_safari",
+            "pokemon": "pincurchin",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "18-34",
+            "weight": 0.8,
+            "condition": {
+                "biomes": [
+                    "#eternal_starlight:is_safari_ocean"
+                ]
+            }
+        }
+    ]
+}

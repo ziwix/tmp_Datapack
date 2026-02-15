@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tinglu-1",
+      "pokemon": "tinglu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_swamp"
+        ],
+        "key_item": "academy:vessel_of_ruin"
+      }
+    }
+  ]
+}
